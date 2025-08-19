@@ -34,7 +34,6 @@ pip install -r requirements.txt
 uvicorn app:app --reload
 ```
 
-Backend will start at: **[http://localhost:8000](http://localhost:8000)**
 
 ### 3️⃣ Run the frontend
 
@@ -44,7 +43,6 @@ npm install
 npm start
 ```
 
-Frontend will start at: **[http://localhost:3000](http://localhost:3000)**
 
 ---
 
